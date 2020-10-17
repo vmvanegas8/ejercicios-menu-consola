@@ -1,0 +1,7 @@
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\bin\Debug\Actividad.NetTrimestre3.exe.config
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\bin\Debug\Actividad.NetTrimestre3.exe
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\bin\Debug\Actividad.NetTrimestre3.pdb
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\obj\Debug\Actividad.NetTrimestre3.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\obj\Debug\Actividad.NetTrimestre3.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\obj\Debug\Actividad.NetTrimestre3.exe
+C:\Users\VICTOR\source\repos\Actividad.NetTrimestre3\Actividad.NetTrimestre3\obj\Debug\Actividad.NetTrimestre3.pdb
